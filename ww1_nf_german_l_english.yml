@@ -13,7 +13,6 @@ GER_ww1_artillery_effort_1:0 "포병 개발"
 GER_ww1_artillery_effort_1_desc:0 "신생 군 현대화 계획의 첫 일보는 우리 포대의 추가 개발이다. 신병기를 위한 개발자를 찾는 건 합당한 첫 과제이며, 우리의 목표가 완료되면, 우리는 잘 만들어진 신 화포로 혜택을 얻을 것이라 기대한다."
 
 GER_ww1_artillery_effort_2:0 "포병 개발 II"
-
 GER_ww1_artillery_effort_2_desc:0 "Now that we have gathered some accomplished Artillery designers, it seems logical to support their endeavors with their own factories. By assigning these men as full-time designers and engineers, and putting workers under them, we can easily make advancements in the field of Artillery." 
 
 GER_ww1_artillery_effort_3:0 "포병 개발 III"
@@ -66,7 +65,7 @@ GER_ww1_airship_focus:0 "체펠린 중점"
 GER_ww1_airship_focus_desc:0 "" #KAISER_ANONY
 
 GER_ww1_aviation_effort:0 "독일 공군 편제"
-GER_ww1_aviation_effort_desc:0 "As one of the first nations to use a military airplane, we have a distinct advantage in the initial organization of a new Air branch of our armed forces. Despite this, there are still many yards of red tape, many debates, and many philosophical arguments to be had about this new branch's role and independence- which will inspire in itself advances in our doctrine."
+GER_ww1_aviation_effort_desc:0 "최초로 항공기를 군사목적으로 유용한 국가로써, 우리는 새로운 영공을 담당하는 초기 조직에서 뚜렷한 이점을 가지고 있습니다. 그럼에도 불구하고, 새로운 조직의 가동과 독립에 대한 아직 수많은 규제들, 많은 토론들, 이론적인 논의들이 일어나고 있습니다(우리의 교리를 더욱 발전시킬 요인이 되는)."
 
 GER_ww1_fighter_focus:0 "전투기 중점"
  GER_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
